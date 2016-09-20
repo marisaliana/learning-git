@@ -6,3 +6,4 @@
 * `git commit -m` - commits files to the repository 
 * `git diff` - shows differences between an edited file and the commited file?
 * `git log` - gives you the log of commits in your repository
+
